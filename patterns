@@ -16,3 +16,9 @@ public class Pattern{
         System.out.println();
     }
 }
+/* if input is 4 then out put should like this
+****
+****
+****
+****
+*/
